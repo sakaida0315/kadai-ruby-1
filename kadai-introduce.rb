@@ -1,11 +1,11 @@
-last_name="堺田"
+苗字="堺田"
 
-name="広樹"+"です。"
+名前="広樹"+"です。"
 
-age="42"+"歳です。"
+年齢="42"+"歳です。"
 
 
 
-puts last_name+name+age.to_s
+puts 苗字+名前+年齢.to_s
 
 
