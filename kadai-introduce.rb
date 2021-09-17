@@ -1,11 +1,11 @@
 last_name="堺田"
 
-name="広樹"
-str1="です。"
-age=42
-str2="歳です。"
+name="広樹"+"です。"
+
+age="42"+"歳です。"
 
 
-puts last_name+name+str1+age.to_s+str2
+
+puts last_name+name+age.to_s
 
 
